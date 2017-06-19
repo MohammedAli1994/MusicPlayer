@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">Sign In</string>
+
+    <string name="page_1_title">Welcome to the MusicTube</string>
+    <string name="page_1_desc">The best way to find your favourite Songs!</string>
+
+    <string name="page_2_title">MusicTube</string>
+    <string name="page_2_desc">Enjoy your Time!</string>
+    <string name="font_fontFamily_medium">0x7f060012</string>
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+</resources>
